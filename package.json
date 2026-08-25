@@ -1,0 +1,13 @@
+{
+  "name": "xunji",
+  "version": "2.0.0",
+  "description": "训迹 · 动作库 H5（数据源 exercises-dataset-main，1324 动作）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["fitness", "exercise", "h5"],
+  "author": "",
+  "license": "MIT",
+  "type": "commonjs"
+}
